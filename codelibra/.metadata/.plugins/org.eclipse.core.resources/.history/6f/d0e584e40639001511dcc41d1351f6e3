@@ -1,0 +1,47 @@
+public class ColorfulRoad {
+
+    public int getMin(String road) {
+        int dp[] = new int[road.length()];
+        int from[] = new int[road.length()];
+
+        dp[0] = 0;
+        for (int i = 1; i < dp.length; i++)
+            dp[i] = Integer.MAX_VALUE;
+
+        for (int i = 0; i < dp.length; i++) {
+            char currentChar = road.charAt(i);
+            from[i] = -1;
+            for (int j = i - 1; j >= 0; --j) {
+                if (currentChar == 'R' && road.charAt(j) == 'B') {
+                    if (dp[i] > (dp[j] + (i - j) * (i - j))) {
+                        dp[i] = (dp[j] + (i - j) * (i - j));
+                        from[i] = j;
+                    }
+                } else if (currentChar == 'G' && road.charAt(j) == 'R') {
+                    if (dp[i] > (dp[j] + (i - j) * (i - j))) {
+                        dp[i] = (dp[j] + (i - j) * (i - j));
+                        from[i] = j;
+                    }
+                } else if (currentChar == 'B' && road.charAt(j) == 'G') {
+                    if (dp[i] > (dp[j] + (i - j) * (i - j))) {
+                        dp[i] = (dp[j] + (i - j) * (i - j));
+                        from[i] = j;
+                    }
+                }
+            }
+        }
+
+        for (int i = 0; i < dp.length; ++i)
+            System.out.print(dp[i] + " ");
+        System.out.println();
+        for (int i = 0; i < from.length; ++i)
+            System.out.print(from[i] + " ");
+
+        int i = road.length()-1;
+        String path = "";
+        while(from[i]!=0){
+            path = path + road.charAt(from[i]);
+        }
+        return dp[road.length() - 1];
+    }
+}

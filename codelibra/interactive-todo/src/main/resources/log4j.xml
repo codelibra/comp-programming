@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id$ -->
+<!-- $HeadURL$ -->
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+
+<appender name="rollingFileAppender" class="org.apache.log4j.RollingFileAppender">
+        <param name="File" value="${catalina.base}/logs/rstore-services.log" />
+        <param name="MaxFileSize" value="10MB" />
+        <param name="MaxBackupIndex" value="10" />
+        <param name="Append" value="true" />
+        <layout class="org.apache.log4j.PatternLayout">
+            <param name="ConversionPattern" value="%d{yyyy-MM-dd HH:mm:ss} [%-5p] [%t] %c : %m%n" />
+        </layout>
+    </appender>
+
+    <appender name="console" class="org.apache.log4j.ConsoleAppender">
+        <param name="Target" value="System.out" />
+        <layout class="org.apache.log4j.PatternLayout">
+            <param name="ConversionPattern" value="%d{yyyy-MM-dd HH:mm:ss} [%-5p] [%t] %c : %m%n" />
+        </layout>
+    </appender>
+
+    <logger name="org.apache">
+        <level value="${log.level}" />
+    </logger>
+    <logger name="log4j.logger.deshaw.ae.rstore.ResourceMapper">
+        <level value="TRACE" />
+    </logger>
+    <root>
+        <priority value="${log.level}" />
+        <appender-ref ref="console" />
+        <appender-ref ref="rollingFileAppender" /> 
+    </root>

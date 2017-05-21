@@ -1,0 +1,27 @@
+public class ColorfulRoad {
+
+    public int getMin(String road) {
+        int dp[] = new int[road.length() + 1];
+        char from[] = new char[road.length()];
+
+        dp[0] = 0;
+        for (int i = 0; i < dp.length; i++) dp[i] = Integer.MAX_VALUE;
+            
+        for (int i = 0; i < dp.length; i++) {
+            char currentChar = road.charAt(i);
+            for (int j = i - 1; j >= 0; --j) {
+                if (currentChar == 'R' && road.charAt(j) == 'B') {
+
+                } else if (currentChar == 'G' && road.charAt(j) == 'R') {
+
+                } else if (currentChar == 'B' && road.charAt(j) == 'G') {
+
+                }
+
+            }
+        }
+
+        return 0;
+    }
+
+}

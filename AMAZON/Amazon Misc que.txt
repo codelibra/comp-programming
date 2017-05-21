@@ -1,0 +1,131 @@
+Given a 20 GB file and 2GB RAM, how to parse it and detect where to break it, concepts of memory management
+
+Code for deadlock and how to resolve.
+OOPS concepts, polymorphism
+
+http://www.geeksforgeeks.org/reservoir-sampling/
+
+Garbage collector(Approach)
+
+About Job Scheduling.
+A question on paging, processes also.
+Some DBMS questions like how is database stored in memory,how an image stored in database and a few more questions from it.
+What is indexing in DBMS. How will you implement an index
+
+
+Asked me about the different inter process communication methods.
+Which method is faster and why. Then he asked me to explain about shared memory
+
+He asked me to write a thread safe code for the given scenario.
+    	given two writer threads and two reader threads . give a mechanism to handle the writer and reader threads. The writer thread writes a value 1 2 3 4 in a queue or array and reader thread reads it and print the output as 1 , 2 ,3 ,4 …..In the same order as given and only once…
+    	->i handled it with a binary semaphore and a single queue for both reader and writer..
+    	f) conditions for a deadlock and he asked me to associate with the real life scenario.
+    	mutual exclusion and all the cases.
+    	g) Different types of scheduling and what type of scheduler does linux have and why.
+    	h) doeslinux have preemptive scheduling and few questions on virtual memory.
+		
+		
+Suppose u given normal deck of cards 4 suites and 13 cards of each suite in which one card is missing
+you are picking a card one at a time and sees that card and putting it aside
+Find the suite and number of missing card.
+Then he said change the number of suites to K (very very large you cant add till k)
+and N numbers (again very large numbers)
+
+
+Suppose in a system, some processes are already running. Now when an user will give new task(or process), he will give a list of processes his process is dependent upon. Some of those may be running, some may not be running right now. You have to ensure that there is no contention, i.e., If a process, Pj is dependent on process Pi,
+Pj should not execute along with Pi. How will you ensure that? Complete algorithm with code was required. The interviewer went on complicating the problem.
+At last I used graph and 3 hashmaps to solve the problem. He was ok with it.
+
+
+Then there were many questions asked on compilers and dynamic memory allocation.
+
+Given an XML file, how will you store it in memory. Use of tree was expected.
+
+Two files containing large number, one in each. You have only fopen(), int read(fp), fclose(), fwrite(). Add these two numbers and write in third file with the help of given functions only.
+    Explained him the logic and he was okay with it.
+c. Write sql query for getting direct and indirect reportees of a given employee. Lets say Employee table(empId, ManagerId).
+    wrote it and he verified it and it was okay. Recursive query, CTE.
+d. Oops concepts, asked to explain Static keyword with all possible example.
+    Explained, variable, methods, classes one by one with Static keyword.
+	
+	
+Difference between process and thread
+
+
+Advantages and disadvantages of thread and process
+
+
+Amazon has many visitors to its site. And it tracks what pages the customers visited, etc and other stuff.
+Make an efficient data structure for storing 3 days of information of all those customers who have visited site exactly two different days and searched more than 3 unique pages of the site in those 2 days.
+
+
+So whoever visited site exactly two days out of these three days and visited more then 3 unique pages should be in the contact list.
+
+What is thrashing ?
+
+
+Real world application of heaps?
+
+
+He asked me to choose topic on which questions should ask..
+I chose OS…
+-some questions on paging and virtual memory.
+
+-If we use 8 GB RAM for 32 bit machine what will happen?
+It was nice question..
+He was very impressed with answer.
+-Some discussion on Networking(DHCP and DNS).
+-Some discussion on Linker and Loader.
+-Some discussion on JAVA.
+-Some discussion on DBMS.
+
+
+Given a snake and ladder game, write a function that returns the minimum number of jumps to take top or destination position.
+
+
+It was basically on writing multi-threading code(Write multi-threaded code for Enqueue of Queue using linked list)
+
+
+Difference between merge sort and quick sort. How do you improve quicksort (think about in selecting pivot element).
+
+
+Give a scenario for quick sort in worst case.
+
+
+How to store a set in memory, what ADTs do we use and what are tradeoffs for each ADT.
+
+Memoziation –do you know about it. Explain me.
+
+Leader ship principles followed by Amazon
+
+Given memory in the form of chunks if one process is reading any chunk, then any other process is not allowed to write but it can read, if write lock is on, then any other process is not allowed to read or write, now process can have lock on any number of chunks (continues) and other process requesting read or write can even request for memory that does not have the same starting address as the process who has locked the continues chunk memory.
+
+Thread pool implementation.
+
+OOPS concepts- Polymorphism, Inheritance, Encapsulation, Abstraction.
+3. Aggregation and Composition.
+4. Design patterns which you have implemented.
+5. Write code to implement Singleton design pattern.
+ Difference between Windows and Unix.
+8. Threads, Synchronization, Deadlock.
+
+
+Given a chess board of finite length , start postion of a knight , an end position.
+     ->find whether the end position is reachable by the knight.
+     -> Number of minimum hops required to reach that position.
+     I came up with a BFS solution instantly . He posed several conditions in the same question as I have seen the question already.
+	 
+ Questions on threading.
+
+7. What is a thread safe code? Explain.
+
+8. What is a process and thread? Differences?
+
+ In second round there were two interviewers and coincidentally one of them was the same guy who took my telephonic interview. First question was related on how to chose the ‘related’ items list whenever a product is displayed on Amazon website. the problem was to find the least related product for a given product. Initially I answered using n-ary tree but told him that we would have duplicate entries. He asked for optimized solution so I suggested using adjancy-list nut finally realized that it can be solved using graphs. They were convinced and asked to code. I solved it using a Queue so while traversing a matrix we pushed in the elements in the queue with their level of relation. They were convinced with the solutio	 
+
+ 
+ Given a stream of numbers, find k random numbers from them. I explained him Reservoir Sampling approach. He asked why this approach works. What is the probability of each number being selected? What is the probability of any number being selected if stream has less than k numbers(its 1).
+He asked me if I had some question. I said I had one, but I already asked it to previos interviewer. He asked me if I got a satisfactory answer to it. I said the answer was very much satisfactory.
+
+
+What is an interface? Why it is used? Give an example. What is an abstract class? Why it is used? Give example. Why 2 different concepts of interface and abstract class?

@@ -1,0 +1,5 @@
+127.0.0.1 - - [02/Apr/2016:21:19:40 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [02/Apr/2016:21:20:32 +0530] "GET /RestfulWebApplication/rest/hello/test HTTP/1.1" 404 1025
+0:0:0:0:0:0:0:1 - - [02/Apr/2016:21:20:32 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [02/Apr/2016:21:20:32 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [02/Apr/2016:21:20:51 +0530] "GET /RESTfulExample/rest/hello/test HTTP/1.1" 200 28
