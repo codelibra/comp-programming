@@ -1,7 +1,0 @@
-INDEX VERSION 1.127
-/Users/shiv/Documents/codelibra/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1851062042.index
-/testing/src/main/resources
-/Users/shiv/Documents/codelibra/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2276300636.index
-/interactive-todo/src/main/resources
-/Users/shiv/Documents/codelibra/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2112539742.index
-/interactive-todo/src/main/java

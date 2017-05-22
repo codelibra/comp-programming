@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete resource &apos;interactive-todo/src/main/resources/org&apos;" deleteContents="false" description="Delete resource &apos;interactive-todo/src/main/resources/org&apos;" element1="/interactive-todo/src/main/resources/org" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1427609767674"/>
-</session>
