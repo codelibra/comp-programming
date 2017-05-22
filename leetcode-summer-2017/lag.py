@@ -128,5 +128,5 @@ with open('/Users/shiv/.bin/comp-programming/leetcode-summer-2017/Leetcode.txt',
 
 # In[143]:
 
-os.system('git add Leetcode.txt;git commit -m "Current Status";git push -f origin master')
+os.system('cd /Users/shiv/.bin/comp-programming/leetcode-summer-2017/;git add Leetcode.txt;git commit -m "Current Status";git push -f origin master')
 
