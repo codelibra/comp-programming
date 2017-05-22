@@ -1,0 +1,368 @@
+ ✔ Dummy
+
+ S A
+ ☐ ☐ Easy  Longest Harmonious Subsequence New
+ ☐ ☐ Easy  Shortest Unsorted Continuous Subarray
+ ☐ ☐ Easy  Distribute Candies
+ ☐ ☐ Easy  Subtree of Another Tree
+ ☐ ☐ Easy  Reshape the Matrix
+ ☐ ☐ Easy  Binary Tree Tilt
+ ☐ ☐ Easy  Array Partition I
+ ☐ ☐ Easy  Reverse Words in a String III
+ ☐ ☐ Easy  Student Attendance Record I
+ ☐ ☐ Easy  Diameter of Binary Tree
+ ☐ ☐ Easy  Reverse String II
+ ☐ ☐ Easy  K-diff Pairs in an Array
+ ☐ ☐ Easy  Minimum Absolute Difference in BST
+ ☐ ☐ Easy  Longest Uncommon Subsequence I
+ ☐ ☐ Easy  Detect Capital
+ ☐ ☐ Easy  Perfect Number
+ ☐ ☐ Easy  Relative Ranks
+ ☐ ☐ Easy  Base 7
+ ☐ ☐ Easy  Find Mode in Binary Search Tree
+ ☐ ☐ Easy  Keyboard Row
+ ☐ ☐ Easy  Next Greater Element I
+ ☐ ☐ Easy  Construct the Rectangle
+ ☐ ☐ Easy  Max Consecutive Ones
+ ☐ ☐ Easy  Number Complement
+ ☐ ☐ Easy  Heaters
+ ☐ ☐ Easy  Island Perimeter
+ ☐ ☐ Easy  Hamming Distance
+ ☐ ☐ Easy  Repeated Substring Pattern
+ ☐ ☐ Easy  Assign Cookies
+ ☐ ☐ Easy  Minimum Moves to Equal Array Elements
+ ☐ ☐ Easy  Find All Numbers Disappeared in an Array
+ ☐ ☐ Easy  Number of Boomerangs
+ ☐ ☐ Easy  Arranging Coins
+ ☐ ☐ Easy  Find All Anagrams in a String
+ ☐ ☐ Easy  Path Sum III
+ ☐ ☐ Easy  Number of Segments in a String
+ ☐ ☐ Easy  Add Strings
+ ☐ ☐ Easy  Third Maximum Number
+ ☐ ☐ Easy  Fizz Buzz
+ ☐ ☐ Easy  Longest Palindrome
+ ☐ ☐ Easy  Convert a Number to Hexadecimal
+ ☐ ☐ Easy  Sum of Left Leaves
+ ☐ ☐ Easy  Binary Watch
+ ☐ ☐ Easy  Nth Digit
+ ☐ ☐ Easy  Find the Difference
+ ☐ ☐ Easy  First Unique Character in a String
+ ☐ ☐ Easy  Ransom Note
+ ☐ ☐ Easy  Guess Number Higher or Lower
+ ☐ ☐ Easy  Sum of Two Integers
+ ☐ ☐ Easy  Valid Perfect Square
+ ☐ ☐ Easy  Intersection of Two Arrays II
+ ☐ ☐ Easy  Intersection of Two Arrays
+ ☐ ☐ Easy  Reverse Vowels of a String
+ ☐ ☐ Easy  Reverse String
+ ☐ ☐ Easy  Power of Four
+ ☐ ☐ Easy  Range Sum Query - Immutable
+ ☐ ☐ Easy  Nim Game
+ ☐ ☐ Easy  Word Pattern
+ ☐ ☐ Easy  Move Zeroes
+ ☐ ☐ Easy  Missing Number
+ ☐ ☐ Easy  Ugly Number
+ ☐ ☐ Easy  Add Digits
+ ☐ ☐ Easy  Binary Tree Paths
+ ☐ ☐ Easy  Valid Anagram
+ ☐ ☐ Easy  Delete Node in a Linked List
+ ☐ ☐ Easy  Lowest Common Ancestor of a Binary Search Tree
+ ☐ ☐ Easy  Palindrome Linked List
+ ☐ ☐ Easy  Implement Queue using Stacks
+ ☐ ☐ Easy  Power of Two
+ ☐ ☐ Easy  Invert Binary Tree
+ ☐ ☐ Easy  Implement Stack using Queues
+ ☐ ☐ Easy  Contains Duplicate II
+ ☐ ☐ Easy  Contains Duplicate
+ ☐ ☐ Easy  Reverse Linked List
+ ☐ ☐ Easy  Isomorphic Strings
+ ☐ ☐ Easy  Count Primes
+ ☐ ☐ Easy  Remove Linked List Elements
+ ☐ ☐ Easy  Happy Number
+ ☐ ☐ Easy  House Robber
+ ☐ ☐ Easy  Number of 1 Bits
+ ☐ ☐ Easy  Reverse Bits
+ ☐ ☐ Easy  Rotate Array
+ ☐ ☐ Easy  Factorial Trailing Zeroes
+ ☐ ☐ Easy  Excel Sheet Column Number
+ ☐ ☐ Easy  Majority Element
+ ☐ ☐ Easy  Excel Sheet Column Title
+ ☐ ☐ Easy  Two Sum II - Input array is sorted
+ ☐ ☐ Easy  Intersection of Two Linked Lists
+ ☐ ☐ Easy  Min Stack
+ ☐ ☐ Easy  Linked List Cycle
+ ☐ ☐ Easy  Single Number
+ ☐ ☐ Easy  Valid Palindrome
+ ☐ ☐ Easy  Best Time to Buy and Sell Stock II
+ ☐ ☐ Easy  Best Time to Buy and Sell Stock
+ ☐ ☐ Easy  Pascal's Triangle II
+ ☐ ☐ Easy  Pascal's Triangle
+ ☐ ☐ Easy  Path Sum
+ ☐ ☐ Easy  Minimum Depth of Binary Tree
+ ☐ ☐ Easy  Balanced Binary Tree
+ ☐ ☐ Easy  Convert Sorted Array to Binary Search Tree
+ ☐ ☐ Easy  Binary Tree Level Order Traversal II
+ ☐ ☐ Easy  Maximum Depth of Binary Tree
+ ☐ ☐ Easy  Symmetric Tree
+ ☐ ☐ Easy  Same Tree
+ ☐ ☐ Easy  Merge Sorted Array
+ ☐ ☐ Easy  Remove Duplicates from Sorted List
+ ☐ ☐ Hard  Design In-Memory File System New
+ ☐ ☐ Hard  Erect the Fence
+ ☐ ☐ Hard  Out of Boundary Paths
+ ☐ ☐ Hard  Find the Closest Palindrome
+ ☐ ☐ Hard  Student Attendance Record II
+ ☐ ☐ Hard  Remove Boxes
+ ☐ ☐ Hard  Super Washing Machines
+ ☐ ☐ Hard  Freedom Trail
+ ☐ ☐ Hard  IPO
+ ☐ ☐ Hard  Reverse Pairs
+ ☐ ☐ Hard  Zuma Game
+ ☐ ☐ Hard  Smallest Good Base
+ ☐ ☐ Hard  Sliding Window Median
+ ☐ ☐ Hard  Concatenated Words
+ ☐ ☐ Hard  Count The Repetitions
+ ☐ ☐ Hard  LFU Cache
+ ☐ ☐ Hard  Arithmetic Slices II - Subsequence
+ ☐ ☐ Hard  K-th Smallest in Lexicographical Order
+ ☐ ☐ Hard  All O`one Data Structure
+ ☐ ☐ Hard  Strong Password Checker
+ ☐ ☐ Hard  Split Array Largest Sum
+ ☐ ☐ Hard  Trapping Rain Water II
+ ☐ ☐ Hard  Frog Jump
+ ☐ ☐ Hard  Perfect Rectangle
+ ☐ ☐ Hard  Insert Delete GetRandom O(1) - Duplicates allowed
+ ☐ ☐ Hard  Max Sum of Rectangle No Larger Than K
+ ☐ ☐ Hard  Russian Doll Envelopes
+ ☐ ☐ Hard  Data Stream as Disjoint Intervals
+ ☐ ☐ Hard  Palindrome Pairs
+ ☐ ☐ Hard  Self Crossing
+ ☐ ☐ Hard  Patching Array
+ ☐ ☐ Hard  Longest Increasing Path in a Matrix
+ ☐ ☐ Hard  Count of Range Sum
+ ☐ ☐ Hard  Create Maximum Number
+ ☐ ☐ Hard  Remove Duplicate Letters
+ ☐ ☐ Hard  Count of Smaller Numbers After Self
+ ☐ ☐ Hard  Burst Balloons
+ ☐ ☐ Hard  Remove Invalid Parentheses
+ ☐ ☐ Hard  Serialize and Deserialize Binary Tree
+ ☐ ☐ Hard  Find Median from Data Stream
+ ☐ ☐ Hard  Expression Add Operators
+ ☐ ☐ Hard  Integer to English Words
+ ☐ ☐ Hard  Sliding Window Maximum
+ ☐ ☐ Hard  Number of Digit One
+ ☐ ☐ Hard  Basic Calculator
+ ☐ ☐ Hard  The Skyline Problem
+ ☐ ☐ Hard  Shortest Palindrome
+ ☐ ☐ Hard  Word Search II
+ ☐ ☐ Hard  Best Time to Buy and Sell Stock IV
+ ☐ ☐ Hard  Dungeon Game
+ ☐ ☐ Hard  Maximum Gap
+ ☐ ☐ Hard  Find Minimum in Rotated Sorted Array II
+ ☐ ☐ Hard  Max Points on a Line
+ ☐ ☐ Hard  LRU Cache
+ ☐ ☐ Hard  Binary Tree Postorder Traversal
+ ☐ ☐ Hard  Word Break II
+ ☐ ☐ Hard  Candy
+ ☐ ☐ Hard  Palindrome Partitioning II
+ ☐ ☐ Hard  Longest Consecutive Sequence
+ ☐ ☐ Hard  Word Ladder II
+ ☐ ☐ Hard  Binary Tree Maximum Path Sum
+ ☐ ☐ Hard  Best Time to Buy and Sell Stock III
+ ☐ ☐ Hard  Distinct Subsequences
+ ☐ ☐ Hard  Recover Binary Search Tree
+ ☐ ☐ Hard  Interleaving String
+ ☐ ☐ Hard  Scramble String
+ ☐ ☐ Hard  Maximal Rectangle
+ ☐ ☐ Hard  Largest Rectangle in Histogram
+ ☐ ☐ Hard  Minimum Window Substring
+ ☐ ☐ Hard  Edit Distance
+ ☐ ☐ Medium  Valid Square New
+ ☐ ☐ Medium  Fraction Addition and Subtraction New
+ ☐ ☐ Medium  Delete Operation for Two Strings
+ ☐ ☐ Medium  Kill Process
+ ☐ ☐ Medium  Permutation in String
+ ☐ ☐ Medium  Subarray Sum Equals K
+ ☐ ☐ Medium  Next Greater Element III
+ ☐ ☐ Medium  Brick Wall
+ ☐ ☐ Medium  Optimal Division
+ ☐ ☐ Medium  Friend Circles
+ ☐ ☐ Medium  01 Matrix
+ ☐ ☐ Medium  Minimum Time Difference
+ ☐ ☐ Medium  Convert BST to Greater Tree
+ ☐ ☐ Medium  Complex Number Multiplication
+ ☐ ☐ Medium  Encode and Decode TinyURL
+ ☐ ☐ Medium  Minesweeper
+ ☐ ☐ Medium  Beautiful Arrangement
+ ☐ ☐ Medium  Contiguous Array
+ ☐ ☐ Medium  Longest Word in Dictionary through Deleting
+ ☐ ☐ Medium  Continuous Subarray Sum
+ ☐ ☐ Medium  Longest Uncommon Subsequence II
+ ☐ ☐ Medium  Longest Palindromic Subsequence
+ ☐ ☐ Medium  Find Largest Value in Each Tree Row
+ ☐ ☐ Medium  Find Bottom Left Tree Value
+ ☐ ☐ Medium  Most Frequent Subtree Sum
+ ☐ ☐ Medium  Next Greater Element II
+ ☐ ☐ Medium  Diagonal Traverse
+ ☐ ☐ Medium  Teemo Attacking
+ ☐ ☐ Medium  Target Sum
+ ☐ ☐ Medium  Increasing Subsequences
+ ☐ ☐ Medium  Predict the Winner
+ ☐ ☐ Medium  License Key Formatting
+ ☐ ☐ Medium  Magical String
+ ☐ ☐ Medium  Total Hamming Distance
+ ☐ ☐ Medium  Ones and Zeroes
+ ☐ ☐ Medium  Matchsticks to Square
+ ☐ ☐ Medium  Validate IP Address
+ ☐ ☐ Medium  Unique Substrings in Wraparound String
+ ☐ ☐ Medium  Can I Win
+ ☐ ☐ Medium  Minimum Moves to Equal Array Elements II
+ ☐ ☐ Medium  132 Pattern
+ ☐ ☐ Medium  4Sum II
+ ☐ ☐ Medium  Minimum Number of Arrows to Burst Balloons
+ ☐ ☐ Medium  Sort Characters By Frequency
+ ☐ ☐ Medium  Delete Node in a BST
+ ☐ ☐ Medium  Serialize and Deserialize BST
+ ☐ ☐ Medium  Add Two Numbers II
+ ☐ ☐ Medium  Find All Duplicates in an Array
+ ☐ ☐ Medium  Find Right Interval
+ ☐ ☐ Medium  Non-overlapping Intervals
+ ☐ ☐ Medium  Longest Repeating Character Replacement
+ ☐ ☐ Medium  Reconstruct Original Digits from English
+ ☐ ☐ Medium  Maximum XOR of Two Numbers in an Array
+ ☐ ☐ Medium  Battleships in a Board
+ ☐ ☐ Medium  Pacific Atlantic Water Flow
+ ☐ ☐ Medium  Partition Equal Subset Sum
+ ☐ ☐ Medium  Arithmetic Slices
+ ☐ ☐ Medium  Queue Reconstruction by Height
+ ☐ ☐ Medium  Remove K Digits
+ ☐ ☐ Medium  Evaluate Division
+ ☐ ☐ Medium  Random Pick Index
+ ☐ ☐ Medium  Integer Replacement
+ ☐ ☐ Medium  Rotate Function
+ ☐ ☐ Medium  Longest Substring with At Least K Repeating Characters
+ ☐ ☐ Medium  Decode String
+ ☐ ☐ Medium  UTF-8 Validation
+ ☐ ☐ Medium  Is Subsequence
+ ☐ ☐ Medium  Elimination Game
+ ☐ ☐ Medium  Longest Absolute File Path
+ ☐ ☐ Medium  Lexicographical Numbers
+ ☐ ☐ Medium  Mini Parser
+ ☐ ☐ Medium  Shuffle an Array
+ ☐ ☐ Medium  Linked List Random Node
+ ☐ ☐ Medium  Insert Delete GetRandom O(1)
+ ☐ ☐ Medium  Kth Smallest Element in a Sorted Matrix
+ ☐ ☐ Medium  Combination Sum IV
+ ☐ ☐ Medium  Wiggle Subsequence
+ ☐ ☐ Medium  Guess Number Higher or Lower II
+ ☐ ☐ Medium  Find K Pairs with Smallest Sums
+ ☐ ☐ Medium  Super Pow
+ ☐ ☐ Medium  Largest Divisible Subset
+ ☐ ☐ Medium  Water and Jug Problem
+ ☐ ☐ Medium  Count Numbers with Unique Digits
+ ☐ ☐ Medium  Design Twitter
+ ☐ ☐ Medium  Top K Frequent Elements
+ ☐ ☐ Medium  Integer Break
+ ☐ ☐ Medium  Flatten Nested List Iterator
+ ☐ ☐ Medium  Counting Bits
+ ☐ ☐ Medium  House Robber III
+ ☐ ☐ Medium  Increasing Triplet Subsequence
+ ☐ ☐ Medium  Reconstruct Itinerary
+ ☐ ☐ Medium  Verify Preorder Serialization of a Binary Tree
+ ☐ ☐ Medium  Odd Even Linked List
+ ☐ ☐ Medium  Wiggle Sort II
+ ☐ ☐ Medium  Coin Change
+ ☐ ☐ Medium  Bulb Switcher
+ ☐ ☐ Medium  Maximum Product of Word Lengths
+ ☐ ☐ Medium  Super Ugly Number
+ ☐ ☐ Medium  Minimum Height Trees
+ ☐ ☐ Medium  Best Time to Buy and Sell Stock with Cooldown
+ ☐ ☐ Medium  Range Sum Query - Mutable
+ ☐ ☐ Medium  Additive Number
+ ☐ ☐ Medium  Range Sum Query 2D - Immutable
+ ☐ ☐ Medium  Longest Increasing Subsequence
+ ☐ ☐ Medium  Bulls and Cows
+ ☐ ☐ Medium  Game of Life
+ ☐ ☐ Medium  Find the Duplicate Number
+ ☐ ☐ Medium  Peeking Iterator
+ ☐ ☐ Medium  Perfect Squares
+ ☐ ☐ Medium  H-Index II
+ ☐ ☐ Medium  H-Index
+ ☐ ☐ Medium  Ugly Number II
+ ☐ ☐ Medium  Single Number III
+ ☐ ☐ Medium  Different Ways to Add Parentheses
+ ☐ ☐ Medium  Search a 2D Matrix II
+ ☐ ☐ Medium  Product of Array Except Self
+ ☐ ☐ Medium  Lowest Common Ancestor of a Binary Tree
+ ☐ ☐ Medium  Kth Smallest Element in a BST
+ ☐ ☐ Medium  Majority Element II
+ ☐ ☐ Medium  Summary Ranges
+ ☐ ☐ Medium  Basic Calculator II
+ ☐ ☐ Medium  Rectangle Area
+ ☐ ☐ Medium  Count Complete Tree Nodes
+ ☐ ☐ Medium  Maximal Square
+ ☐ ☐ Medium  Contains Duplicate III
+ ☐ ☐ Medium  Combination Sum III
+ ☐ ☐ Medium  Kth Largest Element in an Array
+ ☐ ☐ Medium  House Robber II
+ ☐ ☐ Medium  Add and Search Word - Data structure design
+ ☐ ☐ Medium  Course Schedule II
+ ☐ ☐ Medium  Minimum Size Subarray Sum
+ ☐ ☐ Medium  Implement Trie (Prefix Tree)
+ ☐ ☐ Medium  Course Schedule
+ ☐ ☐ Medium  Bitwise AND of Numbers Range
+ ☐ ☐ Medium  Number of Islands
+ ☐ ☐ Medium  Binary Tree Right Side View
+ ☐ ☐ Medium  Repeated DNA Sequences
+ ☐ ☐ Medium  Largest Number
+ ☐ ☐ Medium  Binary Search Tree Iterator
+ ☐ ☐ Medium  Fraction to Recurring Decimal
+ ☐ ☐ Medium  Compare Version Numbers
+ ☐ ☐ Medium  Find Peak Element
+ ☐ ☐ Medium  Find Minimum in Rotated Sorted Array
+ ☐ ☐ Medium  Maximum Product Subarray
+ ☐ ☐ Medium  Reverse Words in a String
+ ☐ ☐ Medium  Evaluate Reverse Polish Notation
+ ☐ ☐ Medium  Sort List
+ ☐ ☐ Medium  Insertion Sort List
+ ☐ ☐ Medium  Binary Tree Preorder Traversal
+ ☐ ☐ Medium  Reorder List
+ ☐ ☐ Medium  Linked List Cycle II
+ ☐ ☐ Medium  Word Break
+ ☐ ☐ Medium  Copy List with Random Pointer
+ ☐ ☐ Medium  Single Number II
+ ☐ ☐ Medium  Gas Station
+ ☐ ☐ Medium  Clone Graph
+ ☐ ☐ Medium  Palindrome Partitioning
+ ☐ ☐ Medium  Surrounded Regions
+ ☐ ☐ Medium  Sum Root to Leaf Numbers
+ ☐ ☐ Medium  Word Ladder
+ ☐ ☐ Medium  Triangle
+ ☐ ☐ Medium  Populating Next Right Pointers in Each Node II
+ ☐ ☐ Medium  Populating Next Right Pointers in Each Node
+ ☐ ☐ Medium  Flatten Binary Tree to Linked List
+ ☐ ☐ Medium  Path Sum II
+ ☐ ☐ Medium  Convert Sorted List to Binary Search Tree
+ ☐ ☐ Medium  Construct Binary Tree from Inorder and Postorder Traversal
+ ☐ ☐ Medium  Construct Binary Tree from Preorder and Inorder Traversal
+ ☐ ☐ Medium  Binary Tree Zigzag Level Order Traversal
+ ☐ ☐ Medium  Binary Tree Level Order Traversal
+ ☐ ☐ Medium  Validate Binary Search Tree
+ ☐ ☐ Medium  Unique Binary Search Trees
+ ☐ ☐ Medium  Unique Binary Search Trees II
+ ☐ ☐ Medium  Binary Tree Inorder Traversal
+ ☐ ☐ Medium  Restore IP Addresses
+ ☐ ☐ Medium  Reverse Linked List II
+ ☐ ☐ Medium  Decode Ways
+ ☐ ☐ Medium  Subsets II
+ ☐ ☐ Medium  Gray Code
+ ☐ ☐ Medium  Partition List
+ ☐ ☐ Medium  Remove Duplicates from Sorted List II
+ ☐ ☐ Medium  Search in Rotated Sorted Array II
+ ☐ ☐ Medium  Remove Duplicates from Sorted Array II
+ ☐ ☐ Medium  Word Search
+ ☐ ☐ Medium  Subsets
+ ☐ ☐ Medium  Combinations
+ ☐ ☐ Medium  Sort Colors
+ ☐ ☐ Medium  Search a 2D Matrix
+ ☐ ☐ Medium  Set Matrix Zeroes
