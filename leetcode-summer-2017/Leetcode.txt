@@ -1,4 +1,11 @@
- ✔ Dummy
+Shiv Easy Lag     0
+Shiv Medium Lag   0
+Shiv Hard Lag     0
+Akshay Easy Lag   0
+Akshay Medium Lag 0
+Akshay Hard Lag   0
+
+✔ Dummy
 
  S A
  ☐ ☐ Easy  Longest Harmonious Subsequence New
