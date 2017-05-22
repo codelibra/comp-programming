@@ -14,7 +14,7 @@ os.system('cd /Users/shiv/.bin/comp-programming/leetcode-summer-2017/;git pull;'
 # In[135]:
 
 import codecs
-f = codecs.open('Leetcode.txt', encoding='utf-8')
+f = codecs.open('/Users/shiv/.bin/comp-programming/leetcode-summer-2017/Leetcode.txt', encoding='utf-8')
 all_questions = list()
 index = 0
 for line in f:
@@ -110,19 +110,19 @@ def calculate_lag():
 
 # In[140]:
 
-with open('Leetcode.txt', 'r') as fin:
+with open('/Users/shiv/.bin/comp-programming/leetcode-summer-2017/Leetcode.txt', 'r') as fin:
     data = fin.read().splitlines(True)
-with open('Leetcode.txt', 'w') as fout:
+with open('/Users/shiv/.bin/comp-programming/leetcode-summer-2017/Leetcode.txt', 'w') as fout:
     fout.writelines(data[6:])
 
 
 # In[141]:
 
 line = calculate_lag()
-with open('Leetcode.txt', 'r') as f:
+with open('/Users/shiv/.bin/comp-programming/leetcode-summer-2017/Leetcode.txt', 'r') as f:
     content = f.read()
     
-with open('Leetcode.txt', 'w') as f:
+with open('/Users/shiv/.bin/comp-programming/leetcode-summer-2017/Leetcode.txt', 'w') as f:
     f.write(line.rstrip('\r\n') + '\n' + content)
 
 
