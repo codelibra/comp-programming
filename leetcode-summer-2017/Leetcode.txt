@@ -8,7 +8,7 @@ Akshay Hard Lag   0
 ✔ Dummy
 
  S A
- ☐ ☐ Easy  Longest Harmonious Subsequence New
+ ✔ ☐ Easy  Longest Harmonious Subsequence New
  ☐ ☐ Easy  Shortest Unsorted Continuous Subarray
  ☐ ☐ Easy  Distribute Candies
  ☐ ☐ Easy  Subtree of Another Tree
