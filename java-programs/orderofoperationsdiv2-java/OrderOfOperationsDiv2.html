@@ -1,0 +1,55 @@
+<html><head><title>OrderOfOperationsDiv2</title></head><body  ><table><tr><td colspan="2"><h3>Problem Statement</h3></td></tr><tr><td>&#160;&#160;&#160;&#160;</td><td><p>
+Cat Noku has just finished writing his first computer program.
+Noku's computer has m memory cells.
+The cells have addresses 0 through m-1.
+Noku's program consists of n instructions.
+The instructions have mutually independent effects and therefore they may be executed in any order.
+The instructions must be executed sequentially (i.e., one after another) and each instruction must be executed exactly once.
+</p>
+
+<p>
+You are given a description of the n instructions as a String[] with n elements.
+Each instruction is a String of m characters.
+For each i, character i of an instruction is '1' if this instruction accesses memory cell i, or '0' if it does not.
+</p>
+
+<p>
+Noku's computer uses caching, which influences the time needed to execute an instruction.
+More precisely, executing an instruction takes k^2 units of time, where k is the number of <i>new</i> memory cells this instruction accesses.
+(I.e., k is the number of memory cells that are accessed by this instruction but have not been accessed by any previously executed instruction.
+Note that k may be zero, in which case the current instruction is indeed executed in 0 units of time.)
+</p>
+
+<p>
+Noku's instructions can be executed in many different orders.
+Clearly, different orders may lead to a different total time of execution.
+Find and return the shortest amount of time in which it is possible to execute all instructions.
+</p></td></tr><tr><td colspan="2"><h3>Definition</h3></td></tr><tr><td>&#160;&#160;&#160;&#160;</td><td><table><tr><td>Class:</td><td>OrderOfOperationsDiv2</td></tr><tr><td>Method:</td><td>minTime</td></tr><tr><td>Parameters:</td><td>String[]</td></tr><tr><td>Returns:</td><td>int</td></tr><tr><td>Method signature:</td><td>int minTime(String[] s)</td></tr><tr><td colspan="2">(be sure your method is public)</td></tr></table></td></tr><tr><td colspan="2"><h3>Limits</h3></td></tr><tr><td>&#160;&#160;&#160;&#160;</td><td><table><tr><td>Time limit (s):</td><td>2.000</td></tr><tr><td>Memory limit (MB):</td><td>256</td></tr><tr><td>Stack limit (MB):</td><td>256</td></tr></table></td></tr><tr><td colspan="2"><h3>Constraints</h3></td></tr><tr><td align="center" valign="top">-</td><td>n,m will be between 1 and 20, inclusive.</td></tr><tr><td align="center" valign="top">-</td><td><b>s</b> will have exactly n elements.</td></tr><tr><td align="center" valign="top">-</td><td>Each element of <b>s</b> will have exactly m characters.</td></tr><tr><td align="center" valign="top">-</td><td>Each character of <b>s</b>[i] will be either '0' or '1' for all valid i.</td></tr><tr><td colspan="2"><h3>Examples</h3></td></tr><tr><td align="center" nowrap="true">0)</td><td></td></tr><tr><td>&#160;&#160;&#160;&#160;</td><td><table><tr><td><table><tr><td><pre>{
+ &quot;111&quot;,
+ &quot;001&quot;,
+ &quot;010&quot;
+}</pre></td></tr></table></td></tr><tr><td><pre>Returns: 3</pre></td></tr><tr><td><table><tr><td colspan="2">Cat Noku has 3 instructions.
+The first instruction ("111") accesses all three memory cells.
+The second instruction ("001") accesses only memory cell 2.
+The third instruction ("010") accesses only memory cell 1.
+If Noku executes these three instructions in the given order, it will take 3^2 + 0^2 + 0^2 = 9 units of time.
+However, if he executes them in the order "second, third, first", it will take only 1^2 + 1^2 + 1^2 = 3 units of time.
+This is one optimal solution.
+Another optimal solution is to execute the instructions in the order "third, second, first".</td></tr></table></td></tr></table></td></tr><tr><td align="center" nowrap="true">1)</td><td></td></tr><tr><td>&#160;&#160;&#160;&#160;</td><td><table><tr><td><table><tr><td><pre>{
+ &quot;11101&quot;,
+ &quot;00111&quot;,
+ &quot;10101&quot;,
+ &quot;00000&quot;,
+ &quot;11000&quot;
+}</pre></td></tr></table></td></tr><tr><td><pre>Returns: 9</pre></td></tr><tr><td><table><tr><td colspan="2"></td></tr></table></td></tr></table></td></tr><tr><td align="center" nowrap="true">2)</td><td></td></tr><tr><td>&#160;&#160;&#160;&#160;</td><td><table><tr><td><table><tr><td><pre>{
+  &quot;11111111111111111111&quot;
+}</pre></td></tr></table></td></tr><tr><td><pre>Returns: 400</pre></td></tr><tr><td><table><tr><td colspan="2">A single instruction that accesses all 20 memory cells.</td></tr></table></td></tr></table></td></tr><tr><td align="center" nowrap="true">3)</td><td></td></tr><tr><td>&#160;&#160;&#160;&#160;</td><td><table><tr><td><table><tr><td><pre>{
+  &quot;1000&quot;,
+  &quot;1100&quot;,
+  &quot;1110&quot;
+}</pre></td></tr></table></td></tr><tr><td><pre>Returns: 3</pre></td></tr><tr><td><table><tr><td colspan="2"></td></tr></table></td></tr></table></td></tr><tr><td align="center" nowrap="true">4)</td><td></td></tr><tr><td>&#160;&#160;&#160;&#160;</td><td><table><tr><td><table><tr><td><pre>{
+  &quot;111&quot;,
+  &quot;111&quot;,
+  &quot;110&quot;,
+  &quot;100&quot;
+}</pre></td></tr></table></td></tr><tr><td><pre>Returns: 3</pre></td></tr><tr><td><table><tr><td colspan="2"></td></tr></table></td></tr></table></td></tr></table><p>This problem statement is the exclusive and proprietary property of TopCoder, Inc.  Any unauthorized use or reproduction of this information without the prior written consent of TopCoder, Inc. is strictly prohibited.  (c)2003, TopCoder, Inc.  All rights reserved.  </p></body></html>

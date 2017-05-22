@@ -1,0 +1,14 @@
+public class ColorfulRoad {
+
+    public int getMin(String road) {
+        int dp[] = new int[road.length() + 1];
+        char from[] = new char[road.length()];
+
+        for (int i = 1; i < dp.length; i++) {
+
+        }
+
+        return 0;
+    }
+
+}

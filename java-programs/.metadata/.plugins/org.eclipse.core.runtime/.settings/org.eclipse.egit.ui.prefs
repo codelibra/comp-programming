@@ -1,0 +1,9 @@
+Blame_IgnoreWhitespace=true
+CloneWizard_StoreInSecureStore=true
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\n<messages>\n<message>Added the basic end to end model&\#x0A;Fetch data from the database and show it in the view&\#x0A;</message>\n<message>Added required models and synced them to the database&\#x0A;</message>\n<message>Testing remote push configuration and added timestamp</message>\n<message>The first basic requirements which the product should fulfill in the&\#x0A;first release</message>\n<message>testing first commit please ignore</message>\n<message>testing commits from mac</message>\n</messages>
+commit_dialog_history_size=100
+commit_dialog_signed_off_by=true
+eclipse.preferences.version=1
+resourcehistory_graph_split=500,500
+resourcehistory_rev_split=700,300
+show_initial_config_dialog=false

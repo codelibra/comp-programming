@@ -1,0 +1,9 @@
+public class PillarsDivTwo {
+
+    public double lengthCalculate(int a, int b, int w) {
+        return Math.sqrt(Math.pow(w, 2) + Math.pow(b - a, 2));
+    }
+
+    public double maximalLength(int[] height, int w) {
+    }
+}

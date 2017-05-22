@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1416642955497_1" label="weekend" name="weekend">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/facebookMasala" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1422728111026_2" label="django" name="django"/>
+<workingSet editPageId="org.eclipse.mylyn.tasks.ui.workingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1426427350473_3" label="python" name="python">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/interactive-todo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/interactive todo" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1427534490418_4" label="todo" name="todo">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Todo" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1436728951423_5" label="Google" name="Google">
+<item elementID="=Google" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1413096732242_0" label="Window Working Set" name="Aggregate for window 1413096732242"/>
+<mruList name="Google"/>
+<mruList name="todo"/>
+<mruList name="python"/>
+<mruList name="django"/>
+<mruList name="weekend"/>
+</workingSetManager>

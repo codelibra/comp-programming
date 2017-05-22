@@ -1,0 +1,29 @@
+Convert a given number to Roman numbers.
+http://stackoverflow.com/questions/7040289/converting-integers-to-roman-numerals?rq=1
+
+Squareroot of a Number
+http://www.ardendertat.com/2012/01/26/programming-interview-questions-27-squareroot-of-a-number/
+
+http://www.geeksforgeeks.org/reservoir-sampling/
+
+http://www.geeksforgeeks.org/print-all-combinations-of-balanced-parentheses/
+
+page 547 bipartite graph robert sedgwick
+
+http://www.geeksforgeeks.org/implement-lru-cache/
+
+http://www.geeksforgeeks.org/dynamic-programming-set-32-word-break-problem/
+
+Convert a n-byte integer from little endian to big endian.(code was required)
+
+http://www.geeksforgeeks.org/divide-and-conquer-set-2-karatsuba-algorithm-for-fast-multiplication/
+
+given the numerator and denominator of a fraction, find the quotient and the remainder without using divide and mod (‘/’, ’%’ )operators. This was simple. I did it. He then asked to write the invariant of my solution which was denominator*quotient + remainder = numerator.
+
+
+closest K pair of points!!
+
+min vertex cover in a graph!
+
+http://www.geeksforgeeks.org/amazon-interview-set-22/
+FF3 que 2

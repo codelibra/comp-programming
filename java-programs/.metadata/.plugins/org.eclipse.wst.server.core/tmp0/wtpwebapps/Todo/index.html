@@ -1,0 +1,101 @@
+<!doctype html>
+<html>
+<head>
+<title>Lists</title>
+<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+<meta content="utf-8" http-equiv="encoding">
+<link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css?family=Oswald" rel='stylesheet' type='text/css'>
+<link href="https://fonts.googleapis.com/css?family=Lato" rel='stylesheet' type='text/css'>
+</head>
+<body>
+    <div id="lists">
+        <h1>My Lists</h1>
+        <ul>
+        </ul>
+        <form id="newList">
+            <input type="text" id="listName" placeholder="Create a new list...">
+            <input type="submit" style="display:none">
+        </form>
+    </div>
+
+    
+
+    <div id="main">
+        <div id="items" style="display:none">
+            <h1></h1>
+            <ul></ul>
+            <form id="newItem">
+                <input type="text" id="itemName" placeholder="Add a new item...">
+                <input type="submit" style="display:none">
+            </form>
+            <p class="sharing">Share</p>
+        </div>
+    </div>
+
+    <p id="logout">Logout</a>
+
+    <div class="md-modal" id="sharing-modal">
+        <div class="md-content">
+            <h3>Sharing settings</h3>
+            <div>
+                <table>
+                    <tbody>
+                        <tr>
+                            <td>Public role:</td>
+                            <td>
+                                <select class="role" id="public">
+                                    <option value="none">None</option>
+                                    <option value="viewer">Viewer</option>
+                                    <option value="editor">Editor</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr id="teamRole" style="display:none">
+                            <td>Team (<span id="teamName"></span>) role:</td>
+                            <td>
+                                <select class="role" id="team">
+                                    <option value="none">None</option>
+                                    <option value="viewer">Viewer</option>
+                                    <option value="editor">Editor</option>
+                                </select>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <p>Have others open the following URL to work with this list:</p>
+                <input id="url" type="text" value="">
+            </div>
+        </div>
+    </div>
+
+    <div class="md-modal" id="login-modal">
+        <div class="md-content">
+            <h3>Log in with Dropbox</h3>
+            <div>
+                <p>This app reads and writes lists to your Dropbox account. Please click the button below to log in.</p>
+                <button id="connect">Connect with Dropbox</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="md-modal" id="ios-modal">
+        <div class="md-content">
+            <h3>Open in the iOS app?</h3>
+            <div>
+                <p>If you have the iOS version of the Lists app installed, you can view this list directly in the app.</p>
+                <button id="ios">Open in iOS app</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="md-overlay"></div>
+
+    <script src="https://www.dropbox.com/static/api/dropbox-datastores-1.2-latest.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="lodash.js"></script>
+    <script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

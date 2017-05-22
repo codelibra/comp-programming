@@ -1,0 +1,5 @@
+Connectors.ConnectionType=org.eclipse.tm.internal.terminal.telnet.TelnetConnector
+Connectors.org.eclipse.tm.internal.terminal.telnet.TelnetConnector.Host=Shivendras-MacBook-Pro.local
+Connectors.org.eclipse.tm.internal.terminal.telnet.TelnetConnector.NetworkPort=23
+Connectors.org.eclipse.tm.internal.terminal.telnet.TelnetConnector.Timeout=10
+eclipse.preferences.version=1

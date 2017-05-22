@@ -1,0 +1,26 @@
+public class PillarsDivTwo {
+
+    public double lengthCalculate(int a, int b, int w) {
+        return Math.sqrt(Math.pow(w, 2) + Math.pow(b - a, 2));
+    }
+
+    public double maximalLength(int[] height, int w) {
+        double dp1[] = new double[height.length]; // 1
+        double dp2[] = new double[height.length]; // height[i]
+        double dp3[] = new double[height.length];
+        
+        double dp[] = new double[height.length];
+
+        for (int i = 1; i < dp2.length; i++) {
+            dp1[i] = lengthCalculate(1, height[i - 1], w);
+            dp2[i] = lengthCalculate(height[i], 1, w);
+            
+
+            if (dp2[i - 1] + dp1[i] > dp1[i - 1] + dp2[i])
+                dp[i] = dp1[i] + dp[i - 1];
+            else
+                dp[i] = dp2[i] + dp[i - 1];
+        }
+        return dp[height.length - 1];
+    }
+}
