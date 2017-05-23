@@ -51,7 +51,7 @@ def calculate_lag():
     days = days_between()
     lag = done - 2 * days
 
-    line = "Competetive Lag     " + str(lag)+ "\n"
+    line = "Shiv Competetive Lag     " + str(lag)+ "\n"
     return line
 
 
