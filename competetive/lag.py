@@ -1,17 +1,14 @@
 
-# coding: utf-8
 
-# In[133]:
+
 
 import os
 
 
-# In[134]:
 
 os.system('cd /Users/shiv/.bin/comp-programming/competetive/;git pull;')
 
 
-# In[135]:
 
 import codecs
 f = codecs.open('/Users/shiv/.bin/comp-programming/competetive/competitive.todo', encoding='utf-8')
@@ -24,13 +21,11 @@ for line in f:
     all_questions.append(line)
 
 
-# In[136]:
 
 lag =0
 done = 0
 
 
-# In[137]:
 
 for question in all_questions:
     if u'\u2714' in question:
@@ -45,7 +40,6 @@ def days_between():
     return abs((today - start_date).days)
 
 
-# In[139]:
 
 def calculate_lag():
     days = days_between()
@@ -56,7 +50,6 @@ def calculate_lag():
 
 
 
-# In[140]:
 
 with open('/Users/shiv/.bin/comp-programming/competetive/competitive.todo', 'r') as fin:
     data = fin.read().splitlines(True)
@@ -64,7 +57,6 @@ with open('/Users/shiv/.bin/comp-programming/competetive/competitive.todo', 'w')
     fout.writelines(data[1:])
 
 
-# In[141]:
 
 line = calculate_lag()
 
