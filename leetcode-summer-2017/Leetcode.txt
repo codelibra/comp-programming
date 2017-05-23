@@ -6,16 +6,6 @@ Akshay Easy Lag   -2
 Akshay Medium Lag -4
 Akshay Hard Lag   -2
 Akshay Algo Lag   0
-Akshay Hard Lag   -2
-Akshay Hard Lag   0
-
-✔ Dummy
-
- S A
- ☐ ☐ Easy  Longest Harmonious Subsequence New
- ☐ ☐ Easy  Shortest Unsorted Continuous Subarray
- ☐ ☐ Easy  Distribute Candies
- ☐ ☐ Easy  Subtree of Another Tree
  ☐ ☐ Easy  Reshape the Matrix
  ☐ ☐ Easy  Binary Tree Tilt
  ☐ ☐ Easy  Array Partition I
@@ -395,4 +385,4 @@ Akshay Hard Lag   0
  ☐ ☐ Algo    Chapter - 16
  ☐ ☐ Algo    Chapter - 17
  ☐ ☐ Algo    Chapter - 18
- ☐ ☐ Algo    Chapter - 19 
+ ☐ ☐ Algo    Chapter - 19
