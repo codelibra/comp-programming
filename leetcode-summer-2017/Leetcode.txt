@@ -1,9 +1,11 @@
 Shiv Easy Lag     -2
 Shiv Medium Lag   -4
 Shiv Hard Lag     -2
+Shiv Algo Lag     0
 Akshay Easy Lag   -2
 Akshay Medium Lag -4
 Akshay Hard Lag   -2
+Akshay Hard Lag   0
 
 ✔ Dummy
 
@@ -373,3 +375,22 @@ Akshay Hard Lag   -2
  ☐ ☐ Medium  Sort Colors
  ☐ ☐ Medium  Search a 2D Matrix
  ☐ ☐ Medium  Set Matrix Zeroes
+ ☐ ☐ Algo    Chapter - 1
+ ☐ ☐ Algo    Chapter - 2
+ ☐ ☐ Algo    Chapter - 3
+ ☐ ☐ Algo    Chapter - 4
+ ☐ ☐ Algo    Chapter - 5
+ ☐ ☐ Algo    Chapter - 6
+ ☐ ☐ Algo    Chapter - 7
+ ☐ ☐ Algo    Chapter - 8
+ ☐ ☐ Algo    Chapter - 9
+ ☐ ☐ Algo    Chapter - 10
+ ☐ ☐ Algo    Chapter - 11
+ ☐ ☐ Algo    Chapter - 12
+ ☐ ☐ Algo    Chapter - 13
+ ☐ ☐ Algo    Chapter - 14
+ ☐ ☐ Algo    Chapter - 15
+ ☐ ☐ Algo    Chapter - 16
+ ☐ ☐ Algo    Chapter - 17
+ ☐ ☐ Algo    Chapter - 18
+ ☐ ☐ Algo    Chapter - 19 
