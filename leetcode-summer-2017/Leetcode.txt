@@ -1,9 +1,9 @@
-Shiv Easy Lag     0
-Shiv Medium Lag   0
-Shiv Hard Lag     0
-Akshay Easy Lag   0
-Akshay Medium Lag 0
-Akshay Hard Lag   0
+Shiv Easy Lag     -2
+Shiv Medium Lag   -4
+Shiv Hard Lag     -2
+Akshay Easy Lag   -2
+Akshay Medium Lag -4
+Akshay Hard Lag   -2
 
 ✔ Dummy
 
