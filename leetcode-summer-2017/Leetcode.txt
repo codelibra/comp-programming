@@ -10,8 +10,8 @@ Akshay Algo Lag   0
 ✔ Dummy
 
  S A
- ✔ ✔ Easy  Longest Harmonious Subsequence New
- ✔ ✔ Easy  Shortest Unsorted Continuous Subarray
+ ✔ ✔ Easy  Longest Harmonious Subsequence New @done(2017-05-24 09:47)
+ ✔ ✔ Easy  Shortest Unsorted Continuous Subarray @done(2017-05-24 09:47)
  ☐ ☐ Easy  Distribute Candies
  ☐ ☐ Easy  Subtree of Another Tree
  ☐ ☐ Easy  Reshape the Matrix
