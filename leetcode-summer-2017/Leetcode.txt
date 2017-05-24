@@ -187,7 +187,7 @@ Akshay Algo Lag   0
  ☐ ☐ Hard  Minimum Window Substring
  ☐ ☐ Hard  Edit Distance
  ✔ ☐ Medium  Valid Square New @done(2017-05-24 10:23)
- ☐ ☐ Medium  Fraction Addition and Subtraction New
+ ✔ ☐ Medium  Fraction Addition and Subtraction New @done(2017-05-24 11:18)
  ☐ ☐ Medium  Delete Operation for Two Strings
  ☐ ☐ Medium  Kill Process
  ☐ ☐ Medium  Permutation in String
