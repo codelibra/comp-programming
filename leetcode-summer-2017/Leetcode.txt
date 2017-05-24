@@ -1,4 +1,4 @@
-Shiv Easy Lag     -2
+Shiv Easy Lag     -1
 Shiv Medium Lag   -4
 Shiv Hard Lag     -2
 Shiv Algo Lag     0
