@@ -14,7 +14,7 @@ Akshay Algo Lag   0
  ✔ ✔ Easy  Shortest Unsorted Continuous Subarray @done(2017-05-24 09:47)
  ☐ ☐ Easy  Distribute Candies
  ☐ ☐ Easy  Subtree of Another Tree
- ☐ ☐ Easy  Reshape the Matrix
+ ☐ ☐ Easy  Reshape the Matri
  ☐ ☐ Easy  Binary Tree Tilt
  ☐ ☐ Easy  Array Partition I
  ☐ ☐ Easy  Reverse Words in a String III
@@ -186,7 +186,7 @@ Akshay Algo Lag   0
  ☐ ☐ Hard  Largest Rectangle in Histogram
  ☐ ☐ Hard  Minimum Window Substring
  ☐ ☐ Hard  Edit Distance
- ☐ ☐ Medium  Valid Square New
+ ✔ ☐ Medium  Valid Square New @done(2017-05-24 10:23)
  ☐ ☐ Medium  Fraction Addition and Subtraction New
  ☐ ☐ Medium  Delete Operation for Two Strings
  ☐ ☐ Medium  Kill Process
