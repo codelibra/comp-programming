@@ -191,7 +191,7 @@ Akshay Algo Lag   0
  ☐ ☐ Medium  Delete Operation for Two Strings
  ✔ ☐ Medium  Kill Process @done(2017-05-24 15:50)
  ✔ ☐ Medium  Permutation in String @done(2017-05-24 16:23)
- ☐ ☐ Medium  Subarray Sum Equals K
+ ✔ ☐ Medium  Subarray Sum Equals K @done(2017-05-24 16:42)
  ☐ ☐ Medium  Next Greater Element III
  ☐ ☐ Medium  Brick Wall
  ☐ ☐ Medium  Optimal Division
