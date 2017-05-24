@@ -189,7 +189,7 @@ Akshay Algo Lag   0
  ✔ ☐ Medium  Valid Square New @done(2017-05-24 10:23)
  ✔ ☐ Medium  Fraction Addition and Subtraction New @done(2017-05-24 11:18)
  ☐ ☐ Medium  Delete Operation for Two Strings
- ☐ ☐ Medium  Kill Process
+ ✔ ☐ Medium  Kill Process @done(2017-05-24 15:50)
  ☐ ☐ Medium  Permutation in String
  ☐ ☐ Medium  Subarray Sum Equals K
  ☐ ☐ Medium  Next Greater Element III
