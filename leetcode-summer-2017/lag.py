@@ -19,7 +19,7 @@ all_questions = list()
 index = 0
 for line in f:
     index = index + 1
-    if index<=10:
+    if index<=12:
         continue
     line = line.split(' ')
     all_questions.append(line)
@@ -121,7 +121,7 @@ def calculate_lag():
     line += "Akshay Easy Lag   " + str(a_easy_lag)+ "\n"
     line += "Akshay Medium Lag " + str(a_medium_lag) + "\n"
     line += "Akshay Hard Lag   " + str(a_hard_lag)+ "\n"
-    line += "Akshay Hard Lag   " + str(a_algo_lag)+ "\n"
+    line += "Akshay Algo Lag   " + str(a_algo_lag)+ "\n"
     return line
 
 
@@ -132,7 +132,7 @@ def calculate_lag():
 with open('/Users/shiv/.bin/comp-programming/leetcode-summer-2017/Leetcode.txt', 'r') as fin:
     data = fin.read().splitlines(True)
 with open('/Users/shiv/.bin/comp-programming/leetcode-summer-2017/Leetcode.txt', 'w') as fout:
-    fout.writelines(data[6:])
+    fout.writelines(data[8:])
 
 
 # In[141]:
