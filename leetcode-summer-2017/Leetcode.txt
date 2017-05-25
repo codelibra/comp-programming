@@ -12,8 +12,8 @@ Akshay Algo Lag   0
  S A
  ✔ ✔ Easy  Longest Harmonious Subsequence New @done(2017-05-24 09:47)
  ✔ ✔ Easy  Shortest Unsorted Continuous Subarray @done(2017-05-24 09:47)
- ☐ ☐ Easy  Distribute Candies
- ☐ ☐ Easy  Subtree of Another Tree
+ ✔ ☐ Easy  Distribute Candies @done(2017-05-24 22:25)
+ ✔ ☐ Easy  Subtree of Another Tree @done(2017-05-24 22:43)
  ☐ ☐ Easy  Reshape the Matri
  ☐ ☐ Easy  Binary Tree Tilt
  ☐ ☐ Easy  Array Partition I
