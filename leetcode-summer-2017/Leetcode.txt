@@ -1,4 +1,4 @@
-Shiv Easy Lag     0
+﻿Shiv Easy Lag     0
 Shiv Medium Lag   -1
 Shiv Hard Lag     -4
 Shiv Algo Lag     0
@@ -116,7 +116,7 @@ Akshay Algo Lag   0
  ☐ ☐ Easy  Same Tree
  ☐ ☐ Easy  Merge Sorted Array
  ☐ ☐ Easy  Remove Duplicates from Sorted List
- ☐ ☐ Hard  Design In-Memory File System New
+ ☐ ✔ Hard  Design In-Memory File System New
  ☐ ☐ Hard  Erect the Fence
  ☐ ☐ Hard  Out of Boundary Paths
  ☐ ☐ Hard  Find the Closest Palindrome
@@ -186,8 +186,8 @@ Akshay Algo Lag   0
  ☐ ☐ Hard  Largest Rectangle in Histogram
  ☐ ☐ Hard  Minimum Window Substring
  ☐ ☐ Hard  Edit Distance
- ✔ ☐ Medium  Valid Square New @done(2017-05-24 10:23)
- ✔ ☐ Medium  Fraction Addition and Subtraction New @done(2017-05-24 11:18)
+ ✔ ✔ Medium  Valid Square New @done(2017-05-24 10:23)
+ ✔ ✔ Medium  Fraction Addition and Subtraction New @done(2017-05-24 11:18)
  ☐ ☐ Medium  Delete Operation for Two Strings
  ✔ ☐ Medium  Kill Process @done(2017-05-24 15:50)
  ✔ ☐ Medium  Permutation in String @done(2017-05-24 16:23)

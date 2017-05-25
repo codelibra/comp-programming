@@ -6,6 +6,8 @@ using namespace std;
 
 int findLHS(vector<int>& nums)
 {
+    if(nums.size()==0)
+      return 0;
     map<int, int> num_count_map;
     for(int i=0; i<nums.size(); i++)
     {
