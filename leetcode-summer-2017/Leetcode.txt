@@ -193,7 +193,7 @@ Akshay Algo Lag   0
  ✔ ☐ Medium  Permutation in String @done(2017-05-24 16:23)
  ✔ ☐ Medium  Subarray Sum Equals K @done(2017-05-24 16:42)
  ✔ ☐ Medium  Next Greater Element III @done(2017-05-24 22:11)
- ☐ ☐ Medium  Brick Wall
+ ✔ ☐ Medium  Brick Wall @done(2017-05-24 23:18)
  ☐ ☐ Medium  Optimal Division
  ☐ ☐ Medium  Friend Circles
  ☐ ☐ Medium  01 Matrix
