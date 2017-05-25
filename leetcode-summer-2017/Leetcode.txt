@@ -1,5 +1,5 @@
 ﻿Shiv Easy Lag     -2
-Shiv Medium Lag   -5
+Shiv Medium Lag   -2
 Shiv Hard Lag     -6
 Shiv Algo Lag     0
 Akshay Easy Lag   -4
@@ -188,18 +188,18 @@ Akshay Algo Lag   0
  ☐ ☐ Hard  Edit Distance
  ✔ ✔ Medium  Valid Square New @done(2017-05-24 10:23)
  ✔ ✔ Medium  Fraction Addition and Subtraction New @done(2017-05-24 11:18)
- ☐ ✔ Medium  Delete Operation for Two Strings
+ ✔ ✔ Medium  Delete Operation for Two Strings
  ✔ ✔ Medium  Kill Process @done(2017-05-24 15:50)
  ✔ ✔ Medium  Permutation in String @done(2017-05-24 16:23)
  ✔ ✔ Medium  Subarray Sum Equals K @done(2017-05-24 16:42)
  ✔ ☐ Medium  Next Greater Element III @done(2017-05-24 22:11)
  ✔ ☐ Medium  Brick Wall @done(2017-05-24 23:18)
- ☐ ☐ Medium  Optimal Division
- ☐ ☐ Medium  Friend Circles
+ ✔ ☐ Medium  Optimal Division @done(2017-05-25 12:41)
+ ✔ ☐ Medium  Friend Circles @done(2017-05-25 13:08)
  ☐ ☐ Medium  01 Matrix
  ☐ ☐ Medium  Minimum Time Difference
  ☐ ☐ Medium  Convert BST to Greater Tree
- ☐ ☐ Medium  Complex Number Multiplication
+ ☐ ☐ Medium  Complex Number Murltiplication
  ☐ ☐ Medium  Encode and Decode TinyURL
  ☐ ☐ Medium  Minesweeper
  ☐ ☐ Medium  Beautiful Arrangement
