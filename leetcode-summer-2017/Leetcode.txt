@@ -14,8 +14,8 @@ Akshay Algo Lag   0
  ✔ ✔ Easy  Shortest Unsorted Continuous Subarray @done(2017-05-24 09:47)
  ✔ ☐ Easy  Distribute Candies @done(2017-05-24 22:25)
  ✔ ☐ Easy  Subtree of Another Tree @done(2017-05-24 22:43)
- ☐ ☐ Easy  Reshape the Matri
- ☐ ☐ Easy  Binary Tree Tilt
+ ✔ ☐ Easy  Reshape the Matri @done(2017-05-25 21:59)
+ ✔ ☐ Easy  Binary Tree Tilt @done(2017-05-25 22:06)
  ☐ ☐ Easy  Array Partition I
  ☐ ☐ Easy  Reverse Words in a String III
  ☐ ☐ Easy  Student Attendance Record I
