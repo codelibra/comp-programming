@@ -197,9 +197,9 @@ Akshay Algo Lag   0
  ✔ ☐ Medium  Optimal Division @done(2017-05-25 12:41)
  ✔ ☐ Medium  Friend Circles @done(2017-05-25 13:08)
  ☐ ✔ Medium  01 Matrix
- ☐ ☐ Medium  Minimum Time Difference
- ☐ ☐ Medium  Convert BST to Greater Tree
- ☐ ☐ Medium  Complex Number Murltiplication
+ ☐ ✔ Medium  Minimum Time Difference
+ ☐ ✔ Medium  Convert BST to Greater Tree
+ ☐ ✔ Medium  Complex Number Murltiplication
  ☐ ☐ Medium  Encode and Decode TinyURL
  ☐ ☐ Medium  Minesweeper
  ☐ ☐ Medium  Beautiful Arrangement
