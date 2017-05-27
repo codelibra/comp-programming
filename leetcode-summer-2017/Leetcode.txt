@@ -1,4 +1,4 @@
-Shiv Easy Lag     -2
+﻿Shiv Easy Lag     -2
 Shiv Medium Lag   -6
 Shiv Hard Lag     -8
 Shiv Algo Lag     0
@@ -118,9 +118,9 @@ Akshay Algo Lag   0
  ☐ ☐ Easy  Remove Duplicates from Sorted List
  ☐ ✔ Hard  Design In-Memory File System New
  ☐ ☐ Hard  Erect the Fence
- ☐ ☐ Hard  Out of Boundary Paths
- ☐ ☐ Hard  Find the Closest Palindrome
- ☐ ☐ Hard  Student Attendance Record II
+ ☐ ✔ Hard  Out of Boundary Paths
+ ☐ ✔ Hard  Find the Closest Palindrome
+ ☐ ✔ Hard  Student Attendance Record II
  ☐ ☐ Hard  Remove Boxes
  ☐ ☐ Hard  Super Washing Machines
  ☐ ☐ Hard  Freedom Trail
@@ -196,7 +196,7 @@ Akshay Algo Lag   0
  ✔ ☐ Medium  Brick Wall @done(2017-05-24 23:18)
  ✔ ☐ Medium  Optimal Division @done(2017-05-25 12:41)
  ✔ ☐ Medium  Friend Circles @done(2017-05-25 13:08)
- ☐ ☐ Medium  01 Matrix
+ ☐ ✔ Medium  01 Matrix
  ☐ ☐ Medium  Minimum Time Difference
  ☐ ☐ Medium  Convert BST to Greater Tree
  ☐ ☐ Medium  Complex Number Murltiplication
