@@ -1,10 +1,10 @@
-﻿Shiv Easy Lag     -2
+﻿﻿Shiv Easy Lag     -2
 Shiv Medium Lag   -6
 Shiv Hard Lag     -8
 Shiv Algo Lag     0
-Akshay Easy Lag   -6
-Akshay Medium Lag -10
-Akshay Hard Lag   -7
+Akshay Easy Lag   -8
+Akshay Medium Lag -14
+Akshay Hard Lag   -9
 Akshay Algo Lag   0
 
 ✔ Dummy
@@ -118,7 +118,7 @@ Akshay Algo Lag   0
  ☐ ☐ Easy  Remove Duplicates from Sorted List
  ☐ ✔ Hard  Design In-Memory File System New
  ☐ ☐ Hard  Erect the Fence
- ☐ ✔ Hard  Out of Boundary Paths
+ ✔ ✔ Hard  Out of Boundary Paths
  ☐ ✔ Hard  Find the Closest Palindrome
  ☐ ✔ Hard  Student Attendance Record II
  ☐ ☐ Hard  Remove Boxes
