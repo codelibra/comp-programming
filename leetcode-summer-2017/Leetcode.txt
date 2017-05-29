@@ -1,11 +1,12 @@
-﻿﻿Shiv Easy Lag     -2
-Shiv Medium Lag   -6
-Shiv Hard Lag     -8
-Shiv Algo Lag     0
-Akshay Easy Lag   -8
-Akshay Medium Lag -14
-Akshay Hard Lag   -9
-Akshay Algo Lag   0
+﻿Shiv Easy Lag     -8
+Shiv Medium Lag   -18
+Shiv Hard Lag     -13
+Shiv Algo Lag     -2
+Akshay Easy Lag   -12
+Akshay Medium Lag -18
+Akshay Hard Lag   -10
+Akshay Algo Lag   -2
+
 
 ✔ Dummy
 
