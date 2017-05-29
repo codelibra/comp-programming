@@ -65,7 +65,7 @@ Akshay Algo Lag   -2
  ☐ ☐ Easy  Reverse Vowels of a String
  ☐ ☐ Easy  Reverse String
  ☐ ☐ Easy  Power of Four
- ☐ ☐ Easy  Range Sum Query - Immutable
+ ✔ ☐ Easy  Range Sum Query - Immutable
  ☐ ☐ Easy  Nim Game
  ☐ ☐ Easy  Word Pattern
  ☐ ☐ Easy  Move Zeroes
@@ -88,7 +88,7 @@ Akshay Algo Lag   -2
  ☐ ☐ Easy  Count Primes
  ☐ ☐ Easy  Remove Linked List Elements
  ☐ ☐ Easy  Happy Number
- ☐ ☐ Easy  House Robber
+ ✔ ☐ Easy  House Robber
  ☐ ☐ Easy  Number of 1 Bits
  ☐ ☐ Easy  Reverse Bits
  ☐ ☐ Easy  Rotate Array
@@ -102,8 +102,8 @@ Akshay Algo Lag   -2
  ☐ ☐ Easy  Linked List Cycle
  ☐ ☐ Easy  Single Number
  ☐ ☐ Easy  Valid Palindrome
- ☐ ☐ Easy  Best Time to Buy and Sell Stock II
- ☐ ☐ Easy  Best Time to Buy and Sell Stock
+ ✔ ☐ Easy  Best Time to Buy and Sell Stock II
+ ✔ ☐ Easy  Best Time to Buy and Sell Stock
  ☐ ☐ Easy  Pascal's Triangle II
  ☐ ☐ Easy  Pascal's Triangle
  ☐ ☐ Easy  Path Sum
@@ -119,7 +119,7 @@ Akshay Algo Lag   -2
  ☐ ✔ Hard  Design In-Memory File System New
  ☐ ☐ Hard  Erect the Fence
  ✔ ✔ Hard  Out of Boundary Paths
- ☐ ✔ Hard  Find the Closest Palindrome
+ ✔ ✔ Hard  Find the Closest Palindrome
  ☐ ✔ Hard  Student Attendance Record II
  ☐ ☐ Hard  Remove Boxes
  ☐ ☐ Hard  Super Washing Machines
@@ -196,7 +196,7 @@ Akshay Algo Lag   -2
  ✔ ☐ Medium  Brick Wall @done(2017-05-24 23:18)
  ✔ ☐ Medium  Optimal Division @done(2017-05-25 12:41)
  ✔ ☐ Medium  Friend Circles @done(2017-05-25 13:08)
- ☐ ✔ Medium  01 Matrix
+ ✔ ✔ Medium  01 Matrix
  ☐ ✔ Medium  Minimum Time Difference
  ☐ ✔ Medium  Convert BST to Greater Tree
  ☐ ✔ Medium  Complex Number Murltiplication
@@ -263,17 +263,17 @@ Akshay Algo Lag   -2
  ☐ ☐ Medium  Kth Smallest Element in a Sorted Matrix
  ☐ ☐ Medium  Combination Sum IV
  ☐ ☐ Medium  Wiggle Subsequence
- ☐ ☐ Medium  Guess Number Higher or Lower II
+ ✔ ☐ Medium  Guess Number Higher or Lower II
  ☐ ☐ Medium  Find K Pairs with Smallest Sums
  ☐ ☐ Medium  Super Pow
- ☐ ☐ Medium  Largest Divisible Subset
+ ✔ ☐ Medium  Largest Divisible Subset
  ☐ ☐ Medium  Water and Jug Problem
  ☐ ☐ Medium  Count Numbers with Unique Digits
  ☐ ☐ Medium  Design Twitter
  ☐ ☐ Medium  Top K Frequent Elements
  ☐ ☐ Medium  Integer Break
  ☐ ☐ Medium  Flatten Nested List Iterator
- ☐ ☐ Medium  Counting Bits
+ ✔ ☐ Medium  Counting Bits
  ☐ ☐ Medium  House Robber III
  ☐ ☐ Medium  Increasing Triplet Subsequence
  ☐ ☐ Medium  Reconstruct Itinerary
