@@ -1,6 +1,6 @@
  S A
  ✔ ☐ Medium  Combinations @done (17-05-29 18:57)
- ☐ ☐ Medium  Unique Binary Search Trees
+ ✔ ☐ Medium  Unique Binary Search Trees @done (17-05-29 19:10)
  ☐ ☐ Medium  Minimum Height Trees
  ☐ ☐ Medium  UTF-8 Validation
  ☐ ☐ Medium  Find All Duplicates in an Array
