@@ -373,9 +373,9 @@ Akshay Algo Lag   -2
  ☐ ☐ Medium  Word Search
  ☐ ☐ Medium  Subsets
  ☐ ☐ Medium  Combinations
- ☐ ☐ Medium  Sort Colors
- ☐ ☐ Medium  Search a 2D Matrix
- ☐ ☐ Medium  Set Matrix Zeroes
+ ☐ ✔ Medium  Sort Colors
+ ☐ ✔ Medium  Search a 2D Matrix
+ ☐ ✔ Medium  Set Matrix Zeroes
  ☐ ☐ Algo    Chapter - 1
  ☐ ☐ Algo    Chapter - 2
  ☐ ☐ Algo    Chapter - 3
