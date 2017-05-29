@@ -1,4 +1,5 @@
- ☐ ☐ Medium  Combinations
+ S A
+ ✔ ☐ Medium  Combinations @done (17-05-29 18:57)
  ☐ ☐ Medium  Unique Binary Search Trees
  ☐ ☐ Medium  Minimum Height Trees
  ☐ ☐ Medium  UTF-8 Validation
