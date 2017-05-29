@@ -1,11 +1,11 @@
-Shiv Easy Lag     -4
-Shiv Medium Lag   -10
-Shiv Hard Lag     -9
-Shiv Algo Lag     0
-Akshay Easy Lag   -8
-Akshay Medium Lag -14
-Akshay Hard Lag   -9
-Akshay Algo Lag   0
+Shiv Easy Lag     -8
+Shiv Medium Lag   -18
+Shiv Hard Lag     -13
+Shiv Algo Lag     -2
+Akshay Easy Lag   -12
+Akshay Medium Lag -18
+Akshay Hard Lag   -10
+Akshay Algo Lag   -2
 
 ✔ Dummy
 
@@ -118,9 +118,9 @@ Akshay Algo Lag   0
  ☐ ☐ Easy  Remove Duplicates from Sorted List
  ☐ ✔ Hard  Design In-Memory File System New
  ☐ ☐ Hard  Erect the Fence
- ✔ ☐ Hard  Out of Boundary Paths
- ☐ ☐ Hard  Find the Closest Palindrome
- ☐ ☐ Hard  Student Attendance Record II
+ ✔ ✔ Hard  Out of Boundary Paths
+ ☐ ✔ Hard  Find the Closest Palindrome
+ ☐ ✔ Hard  Student Attendance Record II
  ☐ ☐ Hard  Remove Boxes
  ☐ ☐ Hard  Super Washing Machines
  ☐ ☐ Hard  Freedom Trail
@@ -196,10 +196,10 @@ Akshay Algo Lag   0
  ✔ ☐ Medium  Brick Wall @done(2017-05-24 23:18)
  ✔ ☐ Medium  Optimal Division @done(2017-05-25 12:41)
  ✔ ☐ Medium  Friend Circles @done(2017-05-25 13:08)
- ☐ ☐ Medium  01 Matrix
- ☐ ☐ Medium  Minimum Time Difference
- ☐ ☐ Medium  Convert BST to Greater Tree
- ☐ ☐ Medium  Complex Number Murltiplication
+ ☐ ✔ Medium  01 Matrix
+ ☐ ✔ Medium  Minimum Time Difference
+ ☐ ✔ Medium  Convert BST to Greater Tree
+ ☐ ✔ Medium  Complex Number Murltiplication
  ☐ ☐ Medium  Encode and Decode TinyURL
  ☐ ☐ Medium  Minesweeper
  ☐ ☐ Medium  Beautiful Arrangement
