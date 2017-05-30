@@ -1,4 +1,4 @@
- S A
+﻿ S A
  ✔ ☐ Medium  Combinations @done (17-05-29 18:57)
  ✔ ☐ Medium  Unique Binary Search Trees @done (17-05-29 19:10)
  ☐ ☐ Medium  Minimum Height Trees
@@ -47,6 +47,6 @@
  ☐ ☐ Medium  Remove K Digits
  ☐ ☐ Medium  Beautiful Arrangement
  ☐ ☐ Medium  Verify Preorder Serialization of a Binary Tree
- ☐ ☐ Medium  Word Break
- ☐ ☐ Medium  Ugly Number II
- ☐ ☐ Medium  House Robber II
+ ☐ ✔ Medium  Word Break
+ ☐ ✔ Medium  Ugly Number II
+ ☐ ✔ Medium  House Robber II
