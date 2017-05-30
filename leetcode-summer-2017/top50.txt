@@ -2,7 +2,7 @@
  ✔ ☐ Medium  Combinations @done (17-05-29 18:57)
  ✔ ☐ Medium  Unique Binary Search Trees @done (17-05-29 19:10)
  ✔ ☐ Medium  Minimum Height Trees @done (17-05-30 12:29)
- ☐ ☐ Medium  UTF-8 Validation
+ ✔ ☐ Medium  UTF-8 Validation @done (17-05-30 14:35)
  ✔ ☐ Medium  Find All Duplicates in an Array @done (17-05-30 12:46)
  ☐ ☐ Medium  Lexicographical Numbers
  ☐ ☐ Medium  Encode and Decode TinyURL
