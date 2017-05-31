@@ -10,7 +10,7 @@
  ☐ ☐ Medium  Diagonal Traverse
  ✔ ☐ Medium  Reconstruct Itinerary @done (17-05-31 13:39)
  ✔ ☐ Medium  Wiggle Subsequence @done (17-05-31 16:09)
- ☐ ☐ Medium  Largest Number
+ ✔ ☐ Medium  Largest Number @done (17-05-31 16:36)
  ☐ ☐ Medium  Convert Sorted List to Binary Search Tree
  ☐ ☐ Medium  Different Ways to Add Parentheses
  ☐ ☐ Medium  Add Two Numbers II
