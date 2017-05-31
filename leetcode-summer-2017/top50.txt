@@ -43,10 +43,10 @@
  ☐ ☐ Medium  Combination Sum IV
  ☐ ☐ Medium  Can I Win
  ☐ ☐ Medium  Minimum Size Subarray Sum
- ☐ ☐ Medium  Super Ugly Number
- ☐ ☐ Medium  Remove K Digits
+ ☐ ✔ Medium  Super Ugly Number
+ ☐ ✔ Medium  Remove K Digits
  ☐ ☐ Medium  Beautiful Arrangement
- ☐ ☐ Medium  Verify Preorder Serialization of a Binary Tree
+ ☐ ✔ Medium  Verify Preorder Serialization of a Binary Tree
  ☐ ✔ Medium  Word Break
  ☐ ✔ Medium  Ugly Number II
  ☐ ✔ Medium  House Robber II
