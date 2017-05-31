@@ -4,7 +4,7 @@
  ✔ ☐ Medium  Minimum Height Trees @done (17-05-30 12:29)
  ✔ ☐ Medium  UTF-8 Validation @done (17-05-30 14:35)
  ✔ ☐ Medium  Find All Duplicates in an Array @done (17-05-30 12:46)
- ☐ ☐ Medium  Lexicographical Numbers
+ ✔ ☐ Medium  Lexicographical Numbers @done (17-05-30 21:55)
  ☐ ☐ Medium  Encode and Decode TinyURL
  ☐ ☐ Medium  132 Pattern
  ☐ ☐ Medium  Diagonal Traverse
