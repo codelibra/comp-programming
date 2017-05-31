@@ -9,7 +9,7 @@
  ✔ ☐ Medium  132 Pattern @done (17-05-31 10:12)
  ☐ ☐ Medium  Diagonal Traverse
  ✔ ☐ Medium  Reconstruct Itinerary @done (17-05-31 13:39)
- ☐ ☐ Medium  Wiggle Subsequence
+ ✔ ☐ Medium  Wiggle Subsequence @done (17-05-31 16:09)
  ☐ ☐ Medium  Largest Number
  ☐ ☐ Medium  Convert Sorted List to Binary Search Tree
  ☐ ☐ Medium  Different Ways to Add Parentheses
