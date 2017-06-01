@@ -38,14 +38,14 @@
  ☐ ✔ Medium  Partition Equal Subset Sum
  ☐ ✔ Medium  Find Bottom Left Tree Value
  ☐ ☐ Medium  Maximum Product of Word Lengths
- ☐ ☐ Medium  Reorder List
- ☐ ☐ Medium  Game of Life
- ☐ ☐ Medium  Combination Sum IV
- ☐ ☐ Medium  Can I Win
- ☐ ☐ Medium  Minimum Size Subarray Sum
+ ☐ ✔ Medium  Reorder List
+ ☐ ✔ Medium  Game of Life
+ ☐ ✔ Medium  Combination Sum IV
+ ☐ ✔ Medium  Can I Win
+ ☐ ✔ Medium  Minimum Size Subarray Sum
  ☐ ✔ Medium  Super Ugly Number
  ☐ ✔ Medium  Remove K Digits
- ☐ ☐ Medium  Beautiful Arrangement
+ ☐ ✔ Medium  Beautiful Arrangement
  ☐ ✔ Medium  Verify Preorder Serialization of a Binary Tree
  ☐ ✔ Medium  Word Break
  ☐ ✔ Medium  Ugly Number II
