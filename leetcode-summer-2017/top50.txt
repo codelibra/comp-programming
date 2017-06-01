@@ -14,7 +14,7 @@
  ✔ ☐ Medium  Convert Sorted List to Binary Search Tree @done (17-05-31 22:04)
  ☐ ☐ Medium  Different Ways to Add Parentheses
  ☐ ☐ Medium  Add Two Numbers II
- ☐ ☐ Medium  Validate Binary Search Tree
+ ✔ ☐ Medium  Validate Binary Search Tree @done (17-05-31 22:34)
  ☐ ☐ Medium  Subsets II
  ☐ ☐ Medium  Majority Element II
  ☐ ☐ Medium  Surrounded Regions
