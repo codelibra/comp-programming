@@ -33,10 +33,10 @@
  ☐ ☐ Medium  Populating Next Right Pointers in Each Node
  ☐ ☐ Medium  Remove Duplicates from Sorted List II
  ☐ ☐ Medium  Subsets
- ☐ ☐ Medium  Insertion Sort List
- ☐ ☐ Medium  Compare Version Numbers
- ☐ ☐ Medium  Partition Equal Subset Sum
- ☐ ☐ Medium  Find Bottom Left Tree Value
+ ☐ ✔ Medium  Insertion Sort List
+ ☐ ✔ Medium  Compare Version Numbers
+ ☐ ✔ Medium  Partition Equal Subset Sum
+ ☐ ✔ Medium  Find Bottom Left Tree Value
  ☐ ☐ Medium  Maximum Product of Word Lengths
  ☐ ☐ Medium  Reorder List
  ☐ ☐ Medium  Game of Life
