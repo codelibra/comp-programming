@@ -32,7 +32,7 @@
  ☐ ☐ Medium  Find Minimum in Rotated Sorted Array
  ☐ ☐ Medium  Populating Next Right Pointers in Each Node
  ☐ ☐ Medium  Remove Duplicates from Sorted List II
- ☐ ☐ Medium  Subsets
+ ✔ ☐ Medium  Subsets @done (17-06-01 12:40)
  ☐ ✔ Medium  Insertion Sort List
  ☐ ✔ Medium  Compare Version Numbers
  ☐ ✔ Medium  Partition Equal Subset Sum
