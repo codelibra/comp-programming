@@ -27,7 +27,7 @@
  ☐ ☐ Medium  Range Sum Query 2D - Immutable
  ☐ ☐ Medium  Kth Smallest Element in a Sorted Matrix
  ☐ ☐ Medium  Count Numbers with Unique Digits
- ☐ ☐ Medium  Lowest Common Ancestor of a Binary Tree
+ ✔ ☐ Medium  Lowest Common Ancestor of a Binary Tree @done (17-06-01 23:51)
  ☐ ☐ Medium  Gray Code
  ☐ ☐ Medium  Find Minimum in Rotated Sorted Array
  ☐ ☐ Medium  Populating Next Right Pointers in Each Node
