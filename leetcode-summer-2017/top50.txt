@@ -16,8 +16,8 @@
  ✔ ☐ Medium  Add Two Numbers II @done (17-06-01 12:08)
  ✔ ☐ Medium  Validate Binary Search Tree @done (17-05-31 22:34)
  ✔ ☐ Medium  Subsets II @done (17-06-01 12:34)
- ✔ ☐ Medium  Majority Element II @done (17-06-01 16:57)
- ☐ ☐ Medium  Surrounded Regions
+ ✔ ☐ Medium  Majority Elememnt II @done (17-06-01 16:57)
+ ✔ ☐ Medium  Surrounded Regions @done (17-06-01 23:34)
  ☐ ☐ Medium  Flatten Binary Tree to Linked List
  ☐ ☐ Medium  Is Subsequence
  ☐ ☐ Medium  4Sum II
@@ -27,7 +27,7 @@
  ☐ ☐ Medium  Range Sum Query 2D - Immutable
  ☐ ☐ Medium  Kth Smallest Element in a Sorted Matrix
  ☐ ☐ Medium  Count Numbers with Unique Digits
- ☐ ☐ Medium  Lowest Common Ancestor of a Binary Tree
+ ✔ ☐ Medium  Lowest Common Ancestor of a Binary Tree @done (17-06-01 23:51)
  ☐ ☐ Medium  Gray Code
  ☐ ☐ Medium  Find Minimum in Rotated Sorted Array
  ☐ ☐ Medium  Populating Next Right Pointers in Each Node
