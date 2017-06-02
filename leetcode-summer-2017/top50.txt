@@ -48,5 +48,5 @@
  ☐ ✔ Medium  Beautiful Arrangement
  ☐ ✔ Medium  Verify Preorder Serialization of a Binary Tree
  ☐ ✔ Medium  Word Break
- ☐ ✔ Medium  Ugly Number II
- ☐ ✔ Medium  House Robber II
+ ✔ ✔ Medium  Ugly Number II @done (17-06-02 12:33)
+ ✔ ✔ Medium  House Robber II @done (17-06-02 11:37)
