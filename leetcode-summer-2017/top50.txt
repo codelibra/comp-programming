@@ -47,6 +47,6 @@
  ☐ ✔ Medium  Remove K Digits
  ☐ ✔ Medium  Beautiful Arrangement
  ☐ ✔ Medium  Verify Preorder Serialization of a Binary Tree
- ☐ ✔ Medium  Word Break
+ ✔ ✔ Medium  Word Break @done (17-06-02 13:45)
  ✔ ✔ Medium  Ugly Number II @done (17-06-02 12:33)
  ✔ ✔ Medium  House Robber II @done (17-06-02 11:37)
